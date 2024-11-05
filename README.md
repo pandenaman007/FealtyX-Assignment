@@ -88,10 +88,7 @@ This project is a simple REST API for managing students, built using Go and the 
 
         -   **GET** `/students/{id}/summary`
 
-License
--------
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Acknowledgments
 ---------------
@@ -109,4 +106,4 @@ Copy code
 - Modify any sections or add additional details specific to your project as needed.
 
 ### Saving the README
-Save this content in a file named `README.md` in the root of your project directory, a
+Save this content in a file named `README.md` in the root of your project directory
