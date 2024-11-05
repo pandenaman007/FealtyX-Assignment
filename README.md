@@ -1,4 +1,4 @@
-`# Student Management API
+# Student Management API
 
 This project is a simple REST API for managing students, built using Go and the Gorilla Mux router. The API allows for CRUD (Create, Read, Update, Delete) operations on student records and integrates with the Ollama API to generate summaries for each student.
 
@@ -99,19 +99,14 @@ Acknowledgments
 -   [Gorilla Mux](https://github.com/gorilla/mux) - The router used in this project.
 -   [Ollama](https://ollama.com) - AI integration for generating summaries.
 
-Contact
--------
 
-For any questions or suggestions, feel free to reach out at your.email@example.com.
-
-csharp
 
 Copy code
 
- `### Customization
+ ### Customization
 - Replace `yourusername` and `your-repository-name` with your actual GitHub username and repository name.
 - Update the contact email address with your own.
 - Modify any sections or add additional details specific to your project as needed.
 
 ### Saving the README
-Save this content in a file named `README.md` in the root of your project directory, a`
+Save this content in a file named `README.md` in the root of your project directory, a
